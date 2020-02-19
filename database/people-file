@@ -1,0 +1,11 @@
+John
+name=>'Jan Kowalski'
+age=>25
+job=>'hardware'
+endrec.
+Anastasia
+name=>'Anastasia'
+age=>21
+job=>'software'
+endrec.
+enddb.
